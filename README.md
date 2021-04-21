@@ -17,7 +17,8 @@
       <a href="https://github.com/ginywiny?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/ginywiny?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ginywiny&show_icons=true&theme=tokyonight"></img><br>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=ginywiny&show_icons=true&theme=tokyonight"></img>-->
+  <br>
      <a href="https://github.com/ginywiny?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/ginywiny" target="_blank"><img alt="ginywiny" src="https://badges.pufler.dev/visits/ginywiny/ginywiny?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/ginywiny/ginywiny" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ginywiny/ginywiny?label=profile%20updated&style=flat-square"></a>

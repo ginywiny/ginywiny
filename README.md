@@ -3,7 +3,7 @@
 <h3 align="center"><samp>Hello! I am ginywiny</samp></h3>
 <p align="center"><br>
   <samp>
-    「 Computer Engineering Bachelor 」<br>
+    「 Computer Engineering Master's 」<br>
   </samp>
 </p>
 <details align="center">
